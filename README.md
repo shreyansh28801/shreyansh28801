@@ -18,7 +18,7 @@
 <div id="badges" align="center">
    <img src="https://komarev.com/ghpvc/?username=shreyansh28801&style=flat-square&color=green" alt="shreyansh28801" />
 </div>
-<h3 align="center">A tenacious student of computer science in India who has undertaken a rigorous self-education to master the subject.</h3>
+<h3 align="center">A tenacious student of computer science from India who has undertaken a rigorous self-education to master the subject.</h3>
 
 
 ### :fire: My Stats :
