@@ -22,9 +22,12 @@
 
 ### :fire: My Stats :
 
-![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh28801&show_icons=true&theme=radical)<br><br>
+![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh28801&show_icons=true&theme=radical)
+
+<!-- ![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh28801&show_icons=true&theme=radical)<br><br> -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shreyansh28801&theme=dark&background=000000)](https://git.io/streak-stats)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh28801&layout=compact&theme=vision-friendly-dark)](https://github.com/shreyansh28801/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh28801&layout=compact&theme=vision-friendly-dark)](https://github.com/shreyansh28801/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh28801&hide_progress=true)](https://github.com/shreyansh28801/github-readme-stats)
 
 
 ### 👨‍💻: Top Repositories :
