@@ -32,7 +32,6 @@
 
 ### 👨‍💻: Top Repositories :
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shreyansh28801&repo=AICTE-Chatbot)]
-(https://github.com/shreyansh28801/AICTE-Chatbot)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shreyansh28801&repo=AICTE-Chatbot)](https://github.com/shreyansh28801/AICTE-Chatbot)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shreyansh28801&repo=Student-Registration-System)](https://github.com/shreyansh28801/Student-Registration-System)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shreyansh28801&repo=Playing-With-Graph-in-Physics)](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics)
