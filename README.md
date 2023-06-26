@@ -18,7 +18,7 @@
 <div id="badges" align="center">
    <img src="https://komarev.com/ghpvc/?username=shreyansh28801&style=flat-square&color=green" alt="shreyansh28801" />
 </div>
-<h3 align="center">A tenacious student of computer science from India who has undertaken a rigorous self-education to master the subject.</h3>
+<h3 align="center">Hello, everyone! I am Shreyansh, a fresher looking for an internship opportunity to work in a dynamic and challenging environment, where I can explore my potential and advance my career.</h3>
 
 
 ### :fire: My Stats :
