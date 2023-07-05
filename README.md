@@ -42,7 +42,7 @@
 
 😊 Feel free to connect with me and let’s code together! <br>
 
-🔗 You can check out my GitHub profile here: https://github.com/shreyansh28801 
+🔗 You can check out my Portfolio Link: https://shreyansh28801.github.io/
 
 <br>
 
