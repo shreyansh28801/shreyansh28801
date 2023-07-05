@@ -18,7 +18,36 @@
 <div id="badges" align="center">
    <img src="https://komarev.com/ghpvc/?username=shreyansh28801&style=flat-square&color=green" alt="shreyansh28801" />
 </div>
-<h3 align="center">Hello, everyone! I am Shreyansh, a fresher looking for an internship opportunity to work in a dynamic and challenging environment, where I can explore my potential and advance my career.</h3>
+
+
+
+
+
+
+
+<!--ABOUT ME CODE-->
+🌱 **About myself**<br>
+
+✔️ I am **Shreyansh Patel**, currently pursuing my bachelors from Indian Institute of Information Technology, Nagpur in *Computer and Science Engineering*. <br>
+
+🏆 I have a solid foundation in data structures, algorithms, and programming languages, which I have showcased in various coding competitions and hackathons. I have won several awards and certificates for my coding skills and creativity. <br>
+
+🚀 I have also gained valuable experience in web development. I have worked on some projects using HTML, CSS, JavaScript, and React.<br>
+
+🧠 I have a keen interest and aptitude for machine learning and artificial intelligence. I have participated in the prestigious Smart India Hackathon 2022, where I developed a ML-based solution for a real-world problem.
+
+<br>
+
+💻 I’m always eager to learn new things and take on new challenges. <br>
+
+👉 I’m looking for opportunities to leverage my skills and knowledge in impactful projects and collaborate with other talented developers. <br>
+
+😊 Feel free to connect with me and let’s code together! <br>
+
+🔗 You can check out my GitHub profile here: https://github.com/shreyansh28801 
+
+<br>
+
 
 
 ### :fire: My Stats :
