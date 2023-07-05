@@ -34,9 +34,7 @@
 
 🚀 I have also gained valuable experience in web development. I have worked on some projects using HTML, CSS, JavaScript, and React.<br>
 
-🧠 I have a keen interest and aptitude for machine learning and artificial intelligence. I have participated in the prestigious Smart India Hackathon 2022, where I developed a ML-based solution for a real-world problem.
-
-<br>
+🧠 I have a keen interest and aptitude for machine learning and artificial intelligence. I have participated in the prestigious Smart India Hackathon 2022, where I developed a ML-based solution for a real-world problem.<br>
 
 💻 I’m always eager to learn new things and take on new challenges. <br>
 
