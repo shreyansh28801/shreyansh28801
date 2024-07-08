@@ -28,7 +28,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Shreyansh Patel**, currently pursuing my bachelors from Indian Institute of Information Technology, Nagpur in *Computer and Science Engineering*. <br>
+✔️ I am **Shreyansh Patel**, a recent graduate from the Indian Institute of Information Technology, Nagpur with a Bachelor's degree in *Computer Science and Engineering*. <br>
 
 🏆 I have a solid foundation in data structures, algorithms, and programming languages, which I have showcased in various coding competitions and hackathons. I have won several awards and certificates for my coding skills and creativity. <br>
 
